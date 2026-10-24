@@ -1,0 +1,8 @@
+{
+  "schema": 1,
+  "description": "Illustrative inspection fixture; not an import format",
+  "job": "WORKSHOP-001",
+  "neutral_sample_seconds": 3,
+  "steps": ["Leave sticks untouched", "Exercise both sticks to their limits", "Press each physical button", "Sweep both triggers", "Export HTML and CSV"],
+  "measurement": "source report interval, not input-to-game latency"
+}
