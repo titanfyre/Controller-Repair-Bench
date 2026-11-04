@@ -31,9 +31,15 @@ Only devices that produce reports appear in the list. Normalized absolute axes u
 
 ## Demo and production licenses
 
+The matching Interceptor-Gamepad-Controller demo driver source is available; see
+[driver/README.md](driver/README.md) for build instructions and separate
+evaluation-source terms. Those terms apply to Titan-authored driver code. Third-party
+source licenses and existing application/SDK licenses remain applicable. Full/commercial
+implementation and private signing or activation material are excluded.
+
 All application features and user-mode source are available. The bundled driver is the **one-hour demo**, starting with the first capture after Windows starts and shared between applications using that driver. On expiry, interception ends and the driver returns to passthrough. Use Windows **Restart** to start another evaluation period.
 
-For the production driver without the demo timer, commercial deployment, OEM integration or support: open Discord, select **Friends -> Add Friend**, enter **`titancsa`**, and send a message mentioning **Controller Repair Bench**. Production-driver licensing is separate from this application's MIT license; it does not promise game/anti-cheat compatibility. No customer key or private driver source is included here.
+For the production driver without the demo timer, commercial deployment, OEM integration or support: open Discord, select **Friends -> Add Friend**, enter **`titancsa`**, and send a message mentioning **Controller Repair Bench**. Production-driver licensing is separate from this application's MIT license; it does not promise game/anti-cheat compatibility. No customer key or full/commercial driver implementation is included here.
 
 ## Build and verify
 
