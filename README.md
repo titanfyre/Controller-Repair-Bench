@@ -2,17 +2,6 @@
 
 **Live gamepad inspection and repair reports for Windows 10/11 x64.** Observe HID, XUSB/XInput, XInput HID and GIP controllers through [Interceptor Gamepad & Controller](https://github.com/TitanCSA/Interceptor-Gamepad-Controller). Captured reports are forwarded unchanged by one worker; the application never remaps a button.
 
-<!-- full-version-contact:start -->
-> [!IMPORTANT]
-> **Get the full driver version without demo restrictions**
->
-> **Discord username: `titancsa`**
->
-> Open Discord, choose **Friends > Add Friend**, enter **`titancsa`**, then send a direct message. Ask for the **full driver version without the demo time limit**, and mention **Controller Repair Bench**.
->
-> The demo limit belongs to **Interceptor Gamepad & Controller**, the driver used by this project. Ask for pricing and the appropriate license / activation instructions; the application or wrapper source keeps its existing license.
-<!-- full-version-contact:end -->
-
 ![Offline preview](docs/Preview.png)
 
 See current axes, observed ranges, neutral drift/noise, exercised button fields and source-report intervals. Add a job or serial label and export a standalone HTML report or spreadsheet-friendly CSV. Multi-report HID fields retain their report, collection and data-index identity.
@@ -64,3 +53,16 @@ Install and activate the corresponding licensed driver using its supplied tools.
 ## License and responsible use
 
 The application and bundled SDK user-mode source are MIT licensed; see `LICENSE` and `SDK/LICENSE`. Driver binaries have their own terms in `Dependencies/BINARY-LICENSE.txt`. The project is intended for authorized diagnostics, development and repair. You are responsible for your use and for compliance with applicable rules; the author provides no warranty and accepts no liability beyond applicable law.
+
+## Commercial integration and support
+
+<!-- full-version-contact:start -->
+> [!IMPORTANT]
+> **Get the full driver version without demo restrictions**
+>
+> **Discord username: `titancsa`**
+>
+> Open Discord, choose **Friends > Add Friend**, enter **`titancsa`**, then send a direct message. Ask for the **full driver version without the demo time limit**, and mention **Controller Repair Bench**.
+>
+> The demo limit belongs to **Interceptor Gamepad & Controller**, the driver used by this project. Ask for pricing and the appropriate license / activation instructions; the application or wrapper source keeps its existing license.
+<!-- full-version-contact:end -->
