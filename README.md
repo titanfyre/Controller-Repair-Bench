@@ -3,7 +3,13 @@
 <!-- simple-start:start -->
 Check whether a gamepad button or stick behaves as expected.
 
-**Start here.** Connect your controller, watch its values as you move it and save a report if needed.
+**Start here.** Extract the [Windows ZIP](https://github.com/titanfyre/Controller-Repair-Bench/releases/latest). Open PowerShell in that folder and run the command below.
+
+```powershell
+.\ControllerRepairBench.exe --preview
+```
+
+The app shows labelled sample values before you connect a controller. [See the first-run guide](https://titancsa.github.io/guides/first-run/#controller).
 <!-- simple-start:end -->
 
 <!-- full-version-contact:start -->
