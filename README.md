@@ -3,7 +3,11 @@
 <!-- simple-start:start -->
 Check whether a gamepad button or stick behaves as expected.
 
-**Start here.** Extract the [Windows ZIP](https://github.com/titanfyre/Controller-Repair-Bench/releases/latest). Open PowerShell in that folder and run the command below.
+[First steps](#first-steps) · [Develop](#build-and-verify) · [Maintain](https://github.com/TitanCSA/sdk-packages/blob/main/CONTRIBUTING.md)
+
+## First steps
+
+Extract the [Windows ZIP](https://github.com/titanfyre/Controller-Repair-Bench/releases/latest). Open PowerShell in that folder and run the command below.
 
 ```powershell
 .\ControllerRepairBench.exe --preview
